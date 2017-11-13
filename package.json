@@ -1,11 +1,11 @@
 {
-  "name": "passport-openidconnect",
+  "name": "@maxkorp/passport-openidconnect",
   "version": "0.0.1",
   "description": "OpenID Connect authentication strategy for Passport.",
   "keywords": ["passport", "openid", "openidconnect", "auth", "authn", "authentication", "identity"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-openidconnect.git"
+    "url": "git://github.com/maxkorp/passport-openidconnect.git"
   },
   "bugs": {
     "url": "http://github.com/jaredhanson/passport-openidconnect/issues"
@@ -17,7 +17,7 @@
   },
   "licenses": [ {
     "type": "MIT",
-    "url": "http://www.opensource.org/licenses/MIT" 
+    "url": "http://www.opensource.org/licenses/MIT"
   } ],
   "main": "./lib",
   "dependencies": {
